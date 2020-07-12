@@ -26,6 +26,7 @@ Project is created with:
 ## Setup
 To run this project, index.html 
 
-## Copyright © 2020 
+## Copyright
+**© 2020 
 **By Bisrat Tegegne**
 
